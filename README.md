@@ -169,7 +169,7 @@ Berikut adalah struktur dasar :
 
 ![2](https://github.com/tiaraputriiiiii/Lab6Web/assets/115775237/e1fee979-6a9b-4940-8859-8ac0e7b8e543)
 
-**3. Custom CSS (Opsional):**
+**3. Custom CSS :**
 
 Jika Anda ingin menyesuaikan tampilan lebih lanjut, Anda dapat menambahkan CSS kustom Anda sendiri. Buat file CSS terpisah atau tambahkan gaya langsung ke dalam tag `style` di bagian `head HTML`. Ini adalah tambahan css styles pada website ini:
 ```html
@@ -214,7 +214,7 @@ Jika Anda ingin menyesuaikan tampilan lebih lanjut, Anda dapat menambahkan CSS k
     </style>
 ```
 
-**4. Ini adalah keseluruhan program**
+**4. Keseluruhan Program**
 ```html
 <body class="text-body-secondary lh-1">
     <div class="container w-75 shadow-lg p-3 mb-0 bg-body-tertiary rounded" id="container">
